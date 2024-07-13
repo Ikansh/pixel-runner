@@ -1,5 +1,5 @@
 # PIXEL RUNNER
-
+_Download from [here](https://github.com/Ikansh/pixel-runner/releases)._
 #### Video Demo:  https://youtu.be/c7P1RvPwQ3s
 #### Description:
 
